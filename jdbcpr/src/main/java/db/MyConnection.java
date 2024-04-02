@@ -22,7 +22,5 @@ public class MyConnection {
 	}
 	public static void closeConnection() {
 	}
-	public static void main (String [] args) {
-		MyConnection.getConnection();
-	}
+	
 }
